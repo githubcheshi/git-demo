@@ -11,6 +11,5 @@ hello world git!!
 hello world git!!
 hello world git!!
 hello world git!!
-hello world git!!
 hello world git!! master text
-hello world git!!
+hello world git!! hot-fix text
